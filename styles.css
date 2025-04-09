@@ -43,8 +43,7 @@ nav ul li a {
   text-align: center;
   padding: 2em;
   background-color: #eee;
-  padding-bottom: 50px;
-   min-height: 50vh;
+   min-height: 100vh;
 }
 
 .hero img {
