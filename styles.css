@@ -44,6 +44,7 @@ nav ul li a {
   padding: 2em;
   background-color: #eee;
   padding-bottom: 50px;
+   min-height: 100vh;
 }
 
 .hero img {
