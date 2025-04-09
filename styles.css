@@ -37,6 +37,9 @@ nav ul li a {
 
 /* Hero section (for home if used) */
 .hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   text-align: center;
   padding: 2em;
   background-color: #eee;
